@@ -70,7 +70,7 @@ function App() {
             </div>
             <a
               className="share-button"
-              href="https://twitter.com/intent/tweet?text=Check%20out%20MX%20Icons"
+              href="https://twitter.com/intent/tweet?text=Excited%20to%20share%20MX%20Icons%20%0A-%20Open%20source%0A-%20Awesome%20icons%0A%0ALink%20%3A%20https%3A%2F%2Fmx-icons.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
             >
