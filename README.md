@@ -9,7 +9,7 @@
 
 **A modern, lightweight React icon library with beautiful hand-crafted SVG icons**
 
-Inspired by Heroicons • Built with React • Optimized for Production
+Built with React • Optimized for Production
 
 [Live Demo](https://mx-icons.vercel.app/) • [Browse Icons](#-available-icons) • [Documentation](#-usage) • [Contributing](#-contributing)
 
