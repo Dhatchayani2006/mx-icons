@@ -159,7 +159,7 @@ function App() {
                 <img src="/mx-icons.png" alt="" />
               </div>
               <h1 className="logo-text">mxicons</h1>
-              <span className="version-badge">{getVersion}</span>
+              <span className="version-badge">v{getVersion}</span>
             </div>
             <div className="header-actions-top">
               <button
